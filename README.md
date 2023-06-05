@@ -1,6 +1,9 @@
 ## Future ready talent program by Shreyam jain.
 Here i created a cooking site web app that help customer to cook healthy food at home.
 
+## azure link
+https://brave-island-0bf8c2b10.3.azurestaticapps.net
+
 ## Home Page
 ![Screenshot (39)](https://github.com/Jshreyam/finalproject/assets/97390413/9a2adb37-a348-46e9-9a0e-642baa231449)
 ## About us
