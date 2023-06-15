@@ -13,9 +13,13 @@ https://youtu.be/XTho2kwW_j0
 
 ## Azure Static Web App
 ![Untitled](https://github.com/Jshreyam/finalproject/assets/97390413/9c62353c-5801-4a07-8c83-44d11eaec0e3)
+
+![Screenshot (50)](https://github.com/Jshreyam/finalproject/assets/97390413/50e9d706-70af-47e6-b0de-22fed065dee6)
+
 ## Azure Health bot
 ![Untitled 1 ](https://github.com/Jshreyam/finalproject/assets/97390413/a75706eb-645b-4959-ba13-d7749846bdc7)
-![Screenshot (48)](https://github.com/Jshreyam/finalproject/assets/97390413/fada078a-02b9-45a8-a032-c1045a782057)
+
+![Screenshot (49)](https://github.com/Jshreyam/finalproject/assets/97390413/436527dc-395b-441d-8b78-ebfd8d995f49)
 
 
 
