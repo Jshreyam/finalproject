@@ -1,6 +1,6 @@
 ## Future ready talent program by Shreyam jain.
-Here i created a cooking site web app that help customer to cook healthy food at home.
-In this project i have used azure static web app and health chat bot to find diabetes.
+Here I created a cooking site web app that help customer to cook healthy food at home.
+In this project I have used Azure Static Web App and Health Chat Bot to find risk of Diabetes.
 
 ## azure link
 https://brave-island-0bf8c2b10.3.azurestaticapps.net
