@@ -6,7 +6,7 @@ In this project i have used azure static web app and health chat bot to find dia
 https://brave-island-0bf8c2b10.3.azurestaticapps.net
 
 ## CHAT BOT LINK
-healthcare-bot-6cj3e2vj76pck.azurewebsites.net
+https://healthcare-bot-6cj3e2vj76pck.azurewebsites.net/
 
 ## video Link
 https://youtu.be/XTho2kwW_j0
